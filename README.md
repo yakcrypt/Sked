@@ -1,2 +1,2 @@
 # Sked
-CMC MSU Schedule (Sked)
+CMC MSU web application schedule (Sked)
